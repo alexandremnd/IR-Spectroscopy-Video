@@ -1,25 +1,22 @@
-# ManimCustom
-This repository contains the source code for the video of the project we've done
-for the University of Paris-Saclay.
-
-We had to present a subject related to science applied in the field of arts. So we studied
-the subject of "IR-Spectroscopy" and so we wanted to create a video that would explain the basics of this field.
-
-To render the video, we used the [Manim](https://www.manim.community/) library and every underlying library
-(like [FFmpeg](https://www.ffmpeg.org/), [Numpy](https://www.numpy.org/)).
-
-# Instructions
-In case you want to render yourself this video, you can use the following command:
-> manim -pqh main.py [SceneToRender]
-
-
 <br />
 <div align="center">
     <a href="https://github.com/alexandremnd/IR">
-        <img src="img/illustration.png" alt="Logo" width="180" height="180">
+        <img src="img.png" alt="Logo" width="180" height="180">
     </a>
-    <h3 align="center">Atomic orbitals</h3>
+    <h3 align="center">IR Spectroscopy video</h3>
     <p align="center">
-        An Hartree-Fock approach to find atomic ground state and electronic density using Slater type orbitals (STO) and Gaussian type orbitals (GTO).
+    Through this video, we delve into the basics of IR spectroscopy, highlighting its relevance in arts.
     </p>
 </div>
+
+# How to render the video ?
+
+To render the video, we used the [Manim](https://www.manim.community/) library and every underlying library
+(like [FFmpeg](https://www.ffmpeg.org/), [Numpy](https://www.numpy.org/)). For detailed requirements, see ``requirements.txt``.
+
+To render a scene, you can use the following command :
+> manim -pqh main.py [SceneToRender]
+
+# Where can I see the video ?
+
+Sadly, this video with explanation isn't available on any platform for personal reason. This repository is only used as an archive for this project.
