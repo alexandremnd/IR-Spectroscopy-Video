@@ -1,7 +1,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/alexandremnd/IR">
-        <img src="img.png" alt="Logo" width="180" height="180">
+        <img src="img.png" alt="Logo" width="260" height="180">
     </a>
     <h3 align="center">IR Spectroscopy video</h3>
     <p align="center">
